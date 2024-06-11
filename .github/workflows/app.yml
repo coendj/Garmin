@@ -1,54 +1,46 @@
-name: CI/CD for react Todo 
+name: BrowserStack
 
 on:
   push:
     branches:
-      - main
+      - "**"
+      - "!dependabot/**"
+  workflow_dispatch:
+
+env:
+  FORCE_COLOR: 2
+  NODE: 20
+
+permissions:
+  contents: read
 
 jobs:
-  # Build Job
-  build:
+  browserstack:
     runs-on: ubuntu-latest
+    if: github.repository == 'twbs/bootstrap'
+    timeout-minutes: 30
+
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Install Node
-        uses: actions/setup-node@v3
+      - name: Clone repository
+        uses: actions/checkout@v4
         with:
-          node-version: 18.x
+          persist-credentials: false
 
-      - name: Install Dependencies
-        run: |
-          cd todo
-          npm install
-
-      - name: Build Project
-        run: |
-          cd todo
-          npm run build
-
-      - name: Upload artifact to enable deployment
-        uses: actions/upload-artifact@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          name: poduction file
-          path: ./todo/build
+          node-version: "${{ env.NODE }}"
+          cache: npm
 
-  # Deploy Job
-  deploy:
-   
-    needs: build
-    
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: poduction file
-          path: ./todo/build
+      - name: Install npm dependencies
+        run: npm ci
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GARMIN }} #this is the key of the access token
-          publish_dir: ./todo/build
+      - name: Run dist
+        run: npm run dist
+
+      - name: Run BrowserStack tests
+        run: npm run js-test-cloud
+        env:
+          BROWSER_STACK_ACCESS_KEY: "${{ secrets.BROWSER_STACK_ACCESS_KEY }}"
+          BROWSER_STACK_USERNAME: "${{ secrets.BROWSER_STACK_USERNAME }}"
+          GITHUB_SHA: "${{ github.sha }}"
