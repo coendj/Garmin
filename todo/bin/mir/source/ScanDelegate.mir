@@ -1,0 +1,89 @@
+[ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 7; ]
+import Toybox.Lang;
+[ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 8; ]
+import Toybox.WatchUi;
+[ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 10; ]
+class ScanDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 10; ]
+    <init> {
+    }
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 10; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 11; @position = 16; ]
+    private
+    var _scanDataModel as ScanDataModel;
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 12; @position = 16; ]
+    private
+    var _viewController as ViewController;
+    //! Constructor
+    //! @param scanDataModel The model containing the scan results
+    //! @param viewController Object that controls pushing new views
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 17; ]
+    public
+    function initialize(scanDataModel as ScanDataModel, viewController as ViewController) as Void {
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_17_97_22_4_start:
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 18 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 20 8 ]
+        %tmp.5 = lgetv %scanDataModel;
+        putv self :_scanDataModel %tmp.5;
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 21 8 ]
+        %tmp.7 = lgetv %viewController;
+        putv self :_viewController %tmp.7;
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_17_97_22_4_stop:
+    }
+    //! Handle menu button press
+    //! @return true if handled, false otherwise
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 26; ]
+    public
+    function onMenu() as Boolean {
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_26_40_29_4_start:
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 27 8 ]
+        %tmp.2 = getv ? :_viewController;
+        %tmp.3 = getv function %tmp.2 :pushScanMenu;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 28 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_26_40_29_4_stop:
+    }
+    //! Handle the select action
+    //! @return true if handled, false otherwise
+    //! Handle next page behavior
+    //! @return true if handled, false otherwise
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 43; ]
+    public
+    function onNextPage() as Boolean {
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_43_44_46_4_start:
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 44 8 ]
+        %tmp.2 = getv ? :_scanDataModel;
+        %tmp.3 = getv function %tmp.2 :nextResult;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 45 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_43_44_46_4_stop:
+    }
+    //! Handle previous page behavior
+    //! @return true if handled, false otherwise
+    [ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 50; ]
+    public
+    function onPreviousPage() as Boolean {
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_50_48_53_4_start:
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 51 8 ]
+        %tmp.2 = getv ? :_scanDataModel;
+        %tmp.3 = getv function %tmp.2 :previousResult;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc" 52 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C_Users_zoeNy_AppData_Roaming_Garmin_ConnectIQ_Sdks_connectiq_sdk_win_7_1_0_RC2_2024_02_14_4a71df847_samples_NordicThingy52_source_ScanDelegate_mc_50_48_53_4_stop:
+    }
+}
+[ @file = "C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\source\ScanDelegate.mc"; @line = 7; ]
+<init> {
+}

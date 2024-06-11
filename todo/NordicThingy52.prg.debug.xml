@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\zoeNy\AppData\Roaming\Garmin\ConnectIQ\Sdks\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\samples\NordicThingy52\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="9" parent="globals/ProfileManager" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="10" parent="globals/ProfileManager" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="11" parent="globals/ProfileManager" pc="268435497" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="12" parent="globals/ProfileManager" pc="268435534" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="13" parent="globals/ProfileManager" pc="268435571" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="14" parent="globals/ProfileManager" pc="268435608" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="16" parent="globals/ProfileManager" pc="268435645" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="1" lineNum="18" parent="globals/ProfileManager" pc="268435682" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="2" lineNum="13" parent="globals/NordicThingyApp" pc="268435884" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="3" lineNum="10" parent="globals/ScanView" pc="268435896" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435908" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="5" lineNum="11" parent="globals/ThingyDelegate" pc="268435928" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="6" lineNum="11" parent="globals/ScanMenuDelegate" pc="268435940" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="7" lineNum="10" parent="globals/ScanDelegate" pc="268435952" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="8" lineNum="11" parent="globals/DeviceView" pc="268435964" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="9" lineNum="10" parent="globals/DeviceDelegate" pc="268435976" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="10" lineNum="36" parent="globals/ProfileManager" pc="268435988" symbol="registerProfiles"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ProfileManager.mc" id="10" lineNum="37" parent="globals/ProfileManager" pc="268435990" symbol="registerProfiles"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="26" parent="globals/NordicThingyApp" pc="268436009" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="27" parent="globals/NordicThingyApp" pc="268436011" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="28" parent="globals/NordicThingyApp" pc="268436040" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="29" parent="globals/NordicThingyApp" pc="268436074" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="30" parent="globals/NordicThingyApp" pc="268436113" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="32" parent="globals/NordicThingyApp" pc="268436147" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="33" parent="globals/NordicThingyApp" pc="268436165" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="12" lineNum="34" parent="globals/NordicThingyApp" pc="268436174" symbol="onStart"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="13" lineNum="49" parent="globals/NordicThingyApp" pc="268436190" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="13" lineNum="50" parent="globals/NordicThingyApp" pc="268436192" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="13" lineNum="51" parent="globals/NordicThingyApp" pc="268436201" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="13" lineNum="53" parent="globals/NordicThingyApp" pc="268436216" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="14" lineNum="20" parent="globals/NordicThingyApp" pc="268436236" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="14" lineNum="21" parent="globals/NordicThingyApp" pc="268436238" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="15" lineNum="40" parent="globals/NordicThingyApp" pc="268436251" symbol="onStop"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="15" lineNum="41" parent="globals/NordicThingyApp" pc="268436253" symbol="onStop"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="15" lineNum="42" parent="globals/NordicThingyApp" pc="268436261" symbol="onStop"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="15" lineNum="43" parent="globals/NordicThingyApp" pc="268436269" symbol="onStop"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\NordicThingyApp.mc" id="15" lineNum="44" parent="globals/NordicThingyApp" pc="268436277" symbol="onStop"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="17" lineNum="23" parent="globals/ScanView" pc="268436286" symbol="onLayout"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="18" lineNum="15" parent="globals/ScanView" pc="268436289" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="18" lineNum="16" parent="globals/ScanView" pc="268436291" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="18" lineNum="18" parent="globals/ScanView" pc="268436303" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="34" parent="globals/ScanView" pc="268436313" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="35" parent="globals/ScanView" pc="268436316" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="37" parent="globals/ScanView" pc="268436329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="39" parent="globals/ScanView" pc="268436366" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="40" parent="globals/ScanView" pc="268436372" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="43" parent="globals/ScanView" pc="268436415" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="44" parent="globals/ScanView" pc="268436430" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="45" parent="globals/ScanView" pc="268436442" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="47" parent="globals/ScanView" pc="268436455" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="48" parent="globals/ScanView" pc="268436471" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanView.mc" id="20" lineNum="49" parent="globals/ScanView" pc="268436479" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="21" lineNum="66" parent="globals/ThingyDelegate" pc="268436508" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="21" lineNum="67" parent="globals/ThingyDelegate" pc="268436511" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="21" lineNum="68" parent="globals/ThingyDelegate" pc="268436518" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="21" lineNum="69" parent="globals/ThingyDelegate" pc="268436524" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="21" lineNum="70" parent="globals/ThingyDelegate" pc="268436535" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="22" lineNum="95" parent="globals/ThingyDelegate" pc="268436563" symbol="notifyCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="22" lineNum="96" parent="globals/ThingyDelegate" pc="268436565" symbol="notifyCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="23" lineNum="83" parent="globals/ThingyDelegate" pc="268436580" symbol="notifyConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="23" lineNum="84" parent="globals/ThingyDelegate" pc="268436582" symbol="notifyConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="24" lineNum="77" parent="globals/ThingyDelegate" pc="268436597" symbol="notifyScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="24" lineNum="78" parent="globals/ThingyDelegate" pc="268436599" symbol="notifyScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="25" lineNum="54" parent="globals/ThingyDelegate" pc="268436614" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="25" lineNum="55" parent="globals/ThingyDelegate" pc="268436617" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="25" lineNum="56" parent="globals/ThingyDelegate" pc="268436624" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="25" lineNum="57" parent="globals/ThingyDelegate" pc="268436630" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="25" lineNum="58" parent="globals/ThingyDelegate" pc="268436641" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="26" lineNum="42" parent="globals/ThingyDelegate" pc="268436669" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="26" lineNum="43" parent="globals/ThingyDelegate" pc="268436672" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="26" lineNum="44" parent="globals/ThingyDelegate" pc="268436679" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="26" lineNum="45" parent="globals/ThingyDelegate" pc="268436685" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="26" lineNum="46" parent="globals/ThingyDelegate" pc="268436696" symbol="onConnectedStateChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="114" parent="globals/ThingyDelegate" pc="268436722" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="115" parent="globals/ThingyDelegate" pc="268436725" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="116" parent="globals/ThingyDelegate" pc="268436740" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="117" parent="globals/ThingyDelegate" pc="268436762" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="118" parent="globals/ThingyDelegate" pc="268436777" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="27" lineNum="122" parent="globals/ThingyDelegate" pc="268436794" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="28" lineNum="89" parent="globals/ThingyDelegate" pc="268436796" symbol="notifyDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="28" lineNum="90" parent="globals/ThingyDelegate" pc="268436798" symbol="notifyDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="29" lineNum="101" parent="globals/ThingyDelegate" pc="268436813" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="29" lineNum="102" parent="globals/ThingyDelegate" pc="268436816" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="29" lineNum="103" parent="globals/ThingyDelegate" pc="268436823" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="29" lineNum="104" parent="globals/ThingyDelegate" pc="268436829" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="29" lineNum="105" parent="globals/ThingyDelegate" pc="268436840" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="30" lineNum="21" parent="globals/ThingyDelegate" pc="268436866" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="30" lineNum="22" parent="globals/ThingyDelegate" pc="268436868" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="30" lineNum="23" parent="globals/ThingyDelegate" pc="268436880" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="28" parent="globals/ThingyDelegate" pc="268436890" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="29" parent="globals/ThingyDelegate" pc="268436893" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="30" parent="globals/ThingyDelegate" pc="268436912" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="31" parent="globals/ThingyDelegate" pc="268436927" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="32" parent="globals/ThingyDelegate" pc="268436942" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ThingyDelegate.mc" id="31" lineNum="33" parent="globals/ThingyDelegate" pc="268436971" symbol="onScanResults"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="32" lineNum="20" parent="globals/ScanMenuDelegate" pc="268437001" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="32" lineNum="21" parent="globals/ScanMenuDelegate" pc="268437003" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="32" lineNum="22" parent="globals/ScanMenuDelegate" pc="268437014" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="32" lineNum="23" parent="globals/ScanMenuDelegate" pc="268437032" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="32" lineNum="24" parent="globals/ScanMenuDelegate" pc="268437043" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="33" lineNum="14" parent="globals/ScanMenuDelegate" pc="268437061" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanMenuDelegate.mc" id="33" lineNum="15" parent="globals/ScanMenuDelegate" pc="268437063" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="34" lineNum="46" parent="globals/ScanDataModel" pc="268437076" symbol="nextResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="34" lineNum="47" parent="globals/ScanDataModel" pc="268437078" symbol="nextResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="34" lineNum="48" parent="globals/ScanDataModel" pc="268437101" symbol="nextResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="34" lineNum="49" parent="globals/ScanDataModel" pc="268437116" symbol="nextResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="26" parent="globals/ScanDataModel" pc="268437131" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="27" parent="globals/ScanDataModel" pc="268437134" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="30" parent="globals/ScanDataModel" pc="268437137" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="31" parent="globals/ScanDataModel" pc="268437157" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="32" parent="globals/ScanDataModel" pc="268437177" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="33" parent="globals/ScanDataModel" pc="268437180" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="34" parent="globals/ScanDataModel" pc="268437190" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="38" parent="globals/ScanDataModel" pc="268437206" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="39" parent="globals/ScanDataModel" pc="268437211" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="35" lineNum="42" parent="globals/ScanDataModel" pc="268437230" symbol="procScanResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="36" lineNum="54" parent="globals/ScanDataModel" pc="268437242" symbol="previousResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="36" lineNum="55" parent="globals/ScanDataModel" pc="268437244" symbol="previousResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="36" lineNum="56" parent="globals/ScanDataModel" pc="268437254" symbol="previousResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="36" lineNum="57" parent="globals/ScanDataModel" pc="268437269" symbol="previousResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="37" lineNum="73" parent="globals/ScanDataModel" pc="268437284" symbol="getDisplayIndex"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="37" lineNum="74" parent="globals/ScanDataModel" pc="268437286" symbol="getDisplayIndex"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="37" lineNum="75" parent="globals/ScanDataModel" pc="268437302" symbol="getDisplayIndex"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="37" lineNum="78" parent="globals/ScanDataModel" pc="268437307" symbol="getDisplayIndex"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="38" lineNum="63" parent="globals/ScanDataModel" pc="268437316" symbol="getDisplayResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="38" lineNum="64" parent="globals/ScanDataModel" pc="268437318" symbol="getDisplayResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="38" lineNum="65" parent="globals/ScanDataModel" pc="268437334" symbol="getDisplayResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="38" lineNum="68" parent="globals/ScanDataModel" pc="268437339" symbol="getDisplayResult"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="39" lineNum="83" parent="globals/ScanDataModel" pc="268437351" symbol="getResultCount"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="39" lineNum="84" parent="globals/ScanDataModel" pc="268437353" symbol="getResultCount"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="40" lineNum="17" parent="globals/ScanDataModel" pc="268437365" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="40" lineNum="18" parent="globals/ScanDataModel" pc="268437367" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="40" lineNum="20" parent="globals/ScanDataModel" pc="268437378" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDataModel.mc" id="40" lineNum="21" parent="globals/ScanDataModel" pc="268437387" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="41" lineNum="35" parent="globals/ViewController" pc="268437396" symbol="pushDeviceView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="41" lineNum="36" parent="globals/ViewController" pc="268437399" symbol="pushDeviceView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="41" lineNum="38" parent="globals/ViewController" pc="268437416" symbol="pushDeviceView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="42" lineNum="22" parent="globals/ViewController" pc="268437480" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="42" lineNum="23" parent="globals/ViewController" pc="268437483" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="42" lineNum="25" parent="globals/ViewController" pc="268437496" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="43" lineNum="29" parent="globals/ViewController" pc="268437556" symbol="pushScanMenu"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="43" lineNum="30" parent="globals/ViewController" pc="268437558" symbol="pushScanMenu"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="44" lineNum="16" parent="globals/ViewController" pc="268437628" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ViewController.mc" id="44" lineNum="17" parent="globals/ViewController" pc="268437630" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="45" lineNum="74" parent="globals/DeviceDataModel" pc="268437640" symbol="isConnected"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="45" lineNum="75" parent="globals/DeviceDataModel" pc="268437642" symbol="isConnected"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="45" lineNum="76" parent="globals/DeviceDataModel" pc="268437651" symbol="isConnected"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="45" lineNum="78" parent="globals/DeviceDataModel" pc="268437666" symbol="isConnected"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="46" lineNum="53" parent="globals/DeviceDataModel" pc="268437668" symbol="unpair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="46" lineNum="54" parent="globals/DeviceDataModel" pc="268437670" symbol="unpair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="46" lineNum="55" parent="globals/DeviceDataModel" pc="268437679" symbol="unpair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="46" lineNum="57" parent="globals/DeviceDataModel" pc="268437700" symbol="unpair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="21" parent="globals/DeviceDataModel" pc="268437709" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="22" parent="globals/DeviceDataModel" pc="268437711" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="23" parent="globals/DeviceDataModel" pc="268437720" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="25" parent="globals/DeviceDataModel" pc="268437729" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="27" parent="globals/DeviceDataModel" pc="268437740" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="47" lineNum="28" parent="globals/DeviceDataModel" pc="268437748" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="33" parent="globals/DeviceDataModel" pc="268437757" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="34" parent="globals/DeviceDataModel" pc="268437759" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="36" parent="globals/DeviceDataModel" pc="268437770" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="39" parent="globals/DeviceDataModel" pc="268437774" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="40" parent="globals/DeviceDataModel" pc="268437784" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="48" lineNum="43" parent="globals/DeviceDataModel" pc="268437794" symbol="procConnection"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="49" lineNum="62" parent="globals/DeviceDataModel" pc="268437806" symbol="getActiveProfile"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="49" lineNum="63" parent="globals/DeviceDataModel" pc="268437808" symbol="getActiveProfile"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="49" lineNum="64" parent="globals/DeviceDataModel" pc="268437817" symbol="getActiveProfile"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="49" lineNum="65" parent="globals/DeviceDataModel" pc="268437832" symbol="getActiveProfile"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="49" lineNum="69" parent="globals/DeviceDataModel" pc="268437840" symbol="getActiveProfile"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="50" lineNum="47" parent="globals/DeviceDataModel" pc="268437846" symbol="pair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="50" lineNum="48" parent="globals/DeviceDataModel" pc="268437848" symbol="pair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="50" lineNum="49" parent="globals/DeviceDataModel" pc="268437862" symbol="pair"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="51" lineNum="82" parent="globals/DeviceDataModel" pc="268437887" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="51" lineNum="83" parent="globals/DeviceDataModel" pc="268437889" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDataModel.mc" id="51" lineNum="84" parent="globals/DeviceDataModel" pc="268437898" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="52" lineNum="26" parent="globals/ScanDelegate" pc="268437927" symbol="onMenu"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="52" lineNum="27" parent="globals/ScanDelegate" pc="268437929" symbol="onMenu"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="52" lineNum="28" parent="globals/ScanDelegate" pc="268437941" symbol="onMenu"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="53" lineNum="50" parent="globals/ScanDelegate" pc="268437943" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="53" lineNum="51" parent="globals/ScanDelegate" pc="268437945" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="53" lineNum="52" parent="globals/ScanDelegate" pc="268437957" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="54" lineNum="17" parent="globals/ScanDelegate" pc="268437959" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="54" lineNum="18" parent="globals/ScanDelegate" pc="268437961" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="54" lineNum="20" parent="globals/ScanDelegate" pc="268437973" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="54" lineNum="21" parent="globals/ScanDelegate" pc="268437982" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="55" lineNum="33" parent="globals/ScanDelegate" pc="268437992" symbol="onSelect"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="55" lineNum="34" parent="globals/ScanDelegate" pc="268437995" symbol="onSelect"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="55" lineNum="35" parent="globals/ScanDelegate" pc="268438008" symbol="onSelect"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="55" lineNum="36" parent="globals/ScanDelegate" pc="268438014" symbol="onSelect"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="55" lineNum="38" parent="globals/ScanDelegate" pc="268438033" symbol="onSelect"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="56" lineNum="43" parent="globals/ScanDelegate" pc="268438035" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="56" lineNum="44" parent="globals/ScanDelegate" pc="268438037" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\ScanDelegate.mc" id="56" lineNum="45" parent="globals/ScanDelegate" pc="268438049" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="57" lineNum="16" parent="globals/DeviceView" pc="268438051" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="57" lineNum="17" parent="globals/DeviceView" pc="268438053" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="57" lineNum="19" parent="globals/DeviceView" pc="268438065" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="54" parent="globals/DeviceView" pc="268438075" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="55" parent="globals/DeviceView" pc="268438078" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="56" parent="globals/DeviceView" pc="268438094" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="60" parent="globals/DeviceView" pc="268438112" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="62" parent="globals/DeviceView" pc="268438112" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="58" parent="globals/DeviceView" pc="268438112" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="59" parent="globals/DeviceView" pc="268438112" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="63" parent="globals/DeviceView" pc="268438120" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="64" parent="globals/DeviceView" pc="268438132" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="65" parent="globals/DeviceView" pc="268438136" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="67" parent="globals/DeviceView" pc="268438142" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="68" parent="globals/DeviceView" pc="268438149" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="69" parent="globals/DeviceView" pc="268438161" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="70" parent="globals/DeviceView" pc="268438179" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="73" parent="globals/DeviceView" pc="268438186" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="75" parent="globals/DeviceView" pc="268438196" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="76" parent="globals/DeviceView" pc="268438212" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="77" parent="globals/DeviceView" pc="268438219" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="78" parent="globals/DeviceView" pc="268438225" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="81" parent="globals/DeviceView" pc="268438245" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="82" parent="globals/DeviceView" pc="268438255" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="84" parent="globals/DeviceView" pc="268438270" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="85" parent="globals/DeviceView" pc="268438286" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="58" lineNum="86" parent="globals/DeviceView" pc="268438317" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="24" parent="globals/DeviceView" pc="268438361" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="25" parent="globals/DeviceView" pc="268438364" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="26" parent="globals/DeviceView" pc="268438364" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="27" parent="globals/DeviceView" pc="268438378" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="29" parent="globals/DeviceView" pc="268438388" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="32" parent="globals/DeviceView" pc="268438395" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="33" parent="globals/DeviceView" pc="268438411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="35" parent="globals/DeviceView" pc="268438419" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="37" parent="globals/DeviceView" pc="268438447" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="38" parent="globals/DeviceView" pc="268438460" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="39" parent="globals/DeviceView" pc="268438480" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="40" parent="globals/DeviceView" pc="268438529" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="41" parent="globals/DeviceView" pc="268438579" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="42" parent="globals/DeviceView" pc="268438629" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceView.mc" id="59" lineNum="43" parent="globals/DeviceView" pc="268438679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="64" parent="globals/EnvironmentProfileModel" pc="268438733" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="65" parent="globals/EnvironmentProfileModel" pc="268438735" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="66" parent="globals/EnvironmentProfileModel" pc="268438742" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="70" parent="globals/EnvironmentProfileModel" pc="268438766" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="74" parent="globals/EnvironmentProfileModel" pc="268438790" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="78" parent="globals/EnvironmentProfileModel" pc="268438814" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="67" parent="globals/EnvironmentProfileModel" pc="268438841" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="68" parent="globals/EnvironmentProfileModel" pc="268438852" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="71" parent="globals/EnvironmentProfileModel" pc="268438855" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="72" parent="globals/EnvironmentProfileModel" pc="268438866" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="75" parent="globals/EnvironmentProfileModel" pc="268438869" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="76" parent="globals/EnvironmentProfileModel" pc="268438880" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="79" parent="globals/EnvironmentProfileModel" pc="268438883" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="60" lineNum="80" parent="globals/EnvironmentProfileModel" pc="268438894" symbol="onCharacteristicChanged"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="61" lineNum="87" parent="globals/EnvironmentProfileModel" pc="268438899" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="61" lineNum="88" parent="globals/EnvironmentProfileModel" pc="268438901" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="61" lineNum="89" parent="globals/EnvironmentProfileModel" pc="268438929" symbol="onDescriptorWrite"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="62" lineNum="113" parent="globals/EnvironmentProfileModel" pc="268438940" symbol="getEco2"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="62" lineNum="114" parent="globals/EnvironmentProfileModel" pc="268438942" symbol="getEco2"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="63" lineNum="119" parent="globals/EnvironmentProfileModel" pc="268438948" symbol="getTvoc"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="63" lineNum="120" parent="globals/EnvironmentProfileModel" pc="268438950" symbol="getTvoc"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="64" lineNum="164" parent="globals/EnvironmentProfileModel" pc="268438956" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="64" lineNum="165" parent="globals/EnvironmentProfileModel" pc="268438958" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="64" lineNum="167" parent="globals/EnvironmentProfileModel" pc="268439009" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="65" lineNum="107" parent="globals/EnvironmentProfileModel" pc="268439021" symbol="getHumidity"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="65" lineNum="108" parent="globals/EnvironmentProfileModel" pc="268439023" symbol="getHumidity"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="124" parent="globals/EnvironmentProfileModel" pc="268439029" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="125" parent="globals/EnvironmentProfileModel" pc="268439032" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="126" parent="globals/EnvironmentProfileModel" pc="268439048" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="129" parent="globals/EnvironmentProfileModel" pc="268439052" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="130" parent="globals/EnvironmentProfileModel" pc="268439061" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="131" parent="globals/EnvironmentProfileModel" pc="268439082" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="66" lineNum="132" parent="globals/EnvironmentProfileModel" pc="268439088" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="67" lineNum="172" parent="globals/EnvironmentProfileModel" pc="268439108" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="67" lineNum="173" parent="globals/EnvironmentProfileModel" pc="268439110" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="67" lineNum="175" parent="globals/EnvironmentProfileModel" pc="268439161" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="68" lineNum="101" parent="globals/EnvironmentProfileModel" pc="268439173" symbol="getPressure"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="68" lineNum="102" parent="globals/EnvironmentProfileModel" pc="268439175" symbol="getPressure"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="69" lineNum="149" parent="globals/EnvironmentProfileModel" pc="268439181" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="69" lineNum="150" parent="globals/EnvironmentProfileModel" pc="268439183" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="69" lineNum="151" parent="globals/EnvironmentProfileModel" pc="268439203" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="69" lineNum="152" parent="globals/EnvironmentProfileModel" pc="268439234" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="70" lineNum="137" parent="globals/EnvironmentProfileModel" pc="268439246" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="70" lineNum="138" parent="globals/EnvironmentProfileModel" pc="268439248" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="70" lineNum="139" parent="globals/EnvironmentProfileModel" pc="268439265" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="70" lineNum="140" parent="globals/EnvironmentProfileModel" pc="268439298" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="70" lineNum="142" parent="globals/EnvironmentProfileModel" pc="268439308" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="71" lineNum="157" parent="globals/EnvironmentProfileModel" pc="268439318" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="71" lineNum="158" parent="globals/EnvironmentProfileModel" pc="268439320" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="71" lineNum="159" parent="globals/EnvironmentProfileModel" pc="268439340" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="26" parent="globals/EnvironmentProfileModel" pc="268439352" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="27" parent="globals/EnvironmentProfileModel" pc="268439355" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="28" parent="globals/EnvironmentProfileModel" pc="268439366" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="30" parent="globals/EnvironmentProfileModel" pc="268439377" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="31" parent="globals/EnvironmentProfileModel" pc="268439386" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="33" parent="globals/EnvironmentProfileModel" pc="268439408" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="35" parent="globals/EnvironmentProfileModel" pc="268439417" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="36" parent="globals/EnvironmentProfileModel" pc="268439424" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="37" parent="globals/EnvironmentProfileModel" pc="268439430" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="38" parent="globals/EnvironmentProfileModel" pc="268439448" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="39" parent="globals/EnvironmentProfileModel" pc="268439454" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="42" parent="globals/EnvironmentProfileModel" pc="268439479" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="43" parent="globals/EnvironmentProfileModel" pc="268439497" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="44" parent="globals/EnvironmentProfileModel" pc="268439503" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="47" parent="globals/EnvironmentProfileModel" pc="268439528" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="48" parent="globals/EnvironmentProfileModel" pc="268439546" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="49" parent="globals/EnvironmentProfileModel" pc="268439552" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="52" parent="globals/EnvironmentProfileModel" pc="268439577" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="53" parent="globals/EnvironmentProfileModel" pc="268439595" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="54" parent="globals/EnvironmentProfileModel" pc="268439601" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="72" lineNum="58" parent="globals/EnvironmentProfileModel" pc="268439629" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="73" lineNum="95" parent="globals/EnvironmentProfileModel" pc="268439637" symbol="getTemperature"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\EnvironmentProfileModel.mc" id="73" lineNum="96" parent="globals/EnvironmentProfileModel" pc="268439639" symbol="getTemperature"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="31" parent="globals/DataModelFactory" pc="268439645" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="32" parent="globals/DataModelFactory" pc="268439648" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="33" parent="globals/DataModelFactory" pc="268439655" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="34" parent="globals/DataModelFactory" pc="268439661" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="35" parent="globals/DataModelFactory" pc="268439672" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="39" parent="globals/DataModelFactory" pc="268439687" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="40" parent="globals/DataModelFactory" pc="268439716" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="74" lineNum="42" parent="globals/DataModelFactory" pc="268439730" symbol="getScanDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="75" lineNum="24" parent="globals/DataModelFactory" pc="268439733" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="75" lineNum="25" parent="globals/DataModelFactory" pc="268439735" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="75" lineNum="26" parent="globals/DataModelFactory" pc="268439744" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="48" parent="globals/DataModelFactory" pc="268439754" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="49" parent="globals/DataModelFactory" pc="268439757" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="50" parent="globals/DataModelFactory" pc="268439764" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="51" parent="globals/DataModelFactory" pc="268439770" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="52" parent="globals/DataModelFactory" pc="268439781" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="56" parent="globals/DataModelFactory" pc="268439796" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="57" parent="globals/DataModelFactory" pc="268439828" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="76" lineNum="59" parent="globals/DataModelFactory" pc="268439842" symbol="getDeviceDataModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="65" parent="globals/DataModelFactory" pc="268439845" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="66" parent="globals/DataModelFactory" pc="268439848" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="67" parent="globals/DataModelFactory" pc="268439855" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="68" parent="globals/DataModelFactory" pc="268439861" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="69" parent="globals/DataModelFactory" pc="268439872" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="73" parent="globals/DataModelFactory" pc="268439887" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="74" parent="globals/DataModelFactory" pc="268439923" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DataModelFactory.mc" id="77" lineNum="76" parent="globals/DataModelFactory" pc="268439937" symbol="getEnvironmentModel"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="78" lineNum="24" parent="globals/DeviceDelegate" pc="268439940" symbol="onBack"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="78" lineNum="25" parent="globals/DeviceDelegate" pc="268439942" symbol="onBack"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="78" lineNum="26" parent="globals/DeviceDelegate" pc="268439954" symbol="onBack"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="78" lineNum="27" parent="globals/DeviceDelegate" pc="268439969" symbol="onBack"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="79" lineNum="15" parent="globals/DeviceDelegate" pc="268439971" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="79" lineNum="16" parent="globals/DeviceDelegate" pc="268439973" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="79" lineNum="18" parent="globals/DeviceDelegate" pc="268439985" symbol="initialize"/>
+        <entry filename="C:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\source\\DeviceDelegate.mc" id="79" lineNum="19" parent="globals/DeviceDelegate" pc="268439994" symbol="initialize"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="80" lineNum="18" parent="globals/Rez/Menus/MainMenu" pc="268440007" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="81" lineNum="19" parent="globals/Rez/Menus/MainMenu" pc="268440019" symbol="initialize"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="81" lineNum="20" parent="globals/Rez/Menus/MainMenu" pc="268440021" symbol="initialize"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="81" lineNum="21" parent="globals/Rez/Menus/MainMenu" pc="268440033" symbol="initialize"/>
+        <entry filename="c:\\Users\\zoeNy\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-7.1.0_RC2-2024-02-14-4a71df847\\samples\\NordicThingy52\\gen\\006-B4375-00\\source\\Rez.mcgen" id="81" lineNum="22" parent="globals/Rez/Menus/MainMenu" pc="268440078" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="15" object="true" symbol="ScanMenuDelegate"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="53" method="true" symbol="pushDeviceView"/>
+        <entry field="true" id="19" symbol="AIR_QUALITY_CHARACTERISTIC"/>
+        <entry id="42" method="true" symbol="notifyDescriptorWrite"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="20" symbol="HUMIDITY_CHARACTERISTIC"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="74" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_temperature&gt;"/>
+        <entry field="true" id="44" symbol="&lt;globals/ScanDataModel/&lt;&gt;_displayResult&gt;"/>
+        <entry field="true" id="73" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_service&gt;"/>
+        <entry field="true" id="34" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onConnection&gt;"/>
+        <entry id="60" method="true" symbol="pair"/>
+        <entry field="true" id="75" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_tvoc&gt;"/>
+        <entry field="true" id="25" symbol="&lt;globals/ProfileManager/&lt;&gt;_envProfileDef&gt;"/>
+        <entry id="18" object="true" symbol="ViewController"/>
+        <entry id="84" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;"/>
+        <entry id="83" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="27" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_bleDelegate&gt;"/>
+        <entry field="true" id="22" symbol="TEMPERATURE_CHARACTERISTIC"/>
+        <entry id="7" object="true" symbol="DeviceDataModel"/>
+        <entry id="11" object="true" symbol="NordicThingyApp"/>
+        <entry id="85" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;"/>
+        <entry id="8391256" method="true" symbol="onScanResults"/>
+        <entry id="39" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;"/>
+        <entry field="true" id="70" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pendingNotifies&gt;"/>
+        <entry id="61" method="true" symbol="procConnection"/>
+        <entry id="94" method="true" symbol="getScanDataModel"/>
+        <entry field="true" id="103" symbol="AppName"/>
+        <entry field="true" id="101" symbol="TempInd"/>
+        <entry id="8391262" method="true" symbol="onDescriptorWrite"/>
+        <entry id="5" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="10" object="true" symbol="EnvironmentProfileModel"/>
+        <entry id="77" method="true" symbol="getEco2"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="97" symbol="HumidityInd"/>
+        <entry field="true" id="23" symbol="THINGY_CONFIGURATION_SERVICE"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8391340" symbol="descriptors"/>
+        <entry id="8" object="true" symbol="DeviceDelegate"/>
+        <entry field="true" id="66" symbol="&lt;globals/DeviceView/&lt;&gt;_dataModel&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="80" method="true" symbol="getTemperature"/>
+        <entry id="8391263" method="true" symbol="onCharacteristicChanged"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8391258" method="true" symbol="onConnectedStateChanged"/>
+        <entry id="12" object="true" symbol="ProfileManager"/>
+        <entry id="107" symbol="item_2"/>
+        <entry id="106" symbol="item_1"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="32" module="true" symbol="Menus"/>
+        <entry id="59" method="true" symbol="getActiveProfile"/>
+        <entry field="true" id="28" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_modelFactory&gt;"/>
+        <entry field="true" id="24" symbol="THINGY_ENVIRONMENTAL_SERVICE"/>
+        <entry field="true" id="90" symbol="&lt;globals/DataModelFactory/&lt;&gt;_profileManager&gt;"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="21" symbol="PRESSURE_CHARACTERISTIC"/>
+        <entry id="9" object="true" symbol="DeviceView"/>
+        <entry field="true" id="58" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_scanResult&gt;"/>
+        <entry id="93" method="true" symbol="getEnvironmentModel"/>
+        <entry id="50" method="true" symbol="previousResult"/>
+        <entry id="63" method="true" symbol="unpair"/>
+        <entry id="17" object="true" symbol="ThingyDelegate"/>
+        <entry id="49" method="true" symbol="nextResult"/>
+        <entry field="true" id="89" symbol="&lt;globals/DataModelFactory/&lt;&gt;_envModel&gt;"/>
+        <entry id="76" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;"/>
+        <entry field="true" id="98" symbol="Launcher"/>
+        <entry field="true" id="30" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_viewController&gt;"/>
+        <entry field="true" id="95" symbol="&lt;globals/DeviceDelegate/&lt;&gt;_deviceDataModel&gt;"/>
+        <entry field="true" id="33" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onCharChanged&gt;"/>
+        <entry field="true" id="100" symbol="PressureInd"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="102" object="true" symbol="MainMenu"/>
+        <entry id="78" method="true" symbol="getHumidity"/>
+        <entry id="92" method="true" symbol="getDeviceDataModel"/>
+        <entry field="true" id="68" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_eco2&gt;"/>
+        <entry id="48" method="true" symbol="getResultCount"/>
+        <entry id="81" method="true" symbol="getTvoc"/>
+        <entry id="8391244" method="true" symbol="isConnected"/>
+        <entry field="true" id="57" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_environmentProfile&gt;"/>
+        <entry id="40" method="true" symbol="notifyCharacteristicChanged"/>
+        <entry id="8391337" symbol="offset"/>
+        <entry id="79" method="true" symbol="getPressure"/>
+        <entry field="true" id="69" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_humidity&gt;"/>
+        <entry id="26" method="true" symbol="registerProfiles"/>
+        <entry field="true" id="87" symbol="&lt;globals/DataModelFactory/&lt;&gt;_delegate&gt;"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="88" symbol="&lt;globals/DataModelFactory/&lt;&gt;_deviceDataModel&gt;"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="82" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;"/>
+        <entry field="true" id="52" symbol="&lt;globals/ViewController/&lt;&gt;_modelFactory&gt;"/>
+        <entry id="67" method="true" symbol="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;"/>
+        <entry id="86" method="true" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;"/>
+        <entry id="38" method="true" symbol="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="43" method="true" symbol="notifyScanResult"/>
+        <entry field="true" id="64" symbol="&lt;globals/ScanDelegate/&lt;&gt;_scanDataModel&gt;"/>
+        <entry id="46" method="true" symbol="getDisplayIndex"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="35" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onDescriptorWrite&gt;"/>
+        <entry field="true" id="99" symbol="LeafInd"/>
+        <entry id="8391334" symbol="uuid"/>
+        <entry id="54" method="true" symbol="pushScanMenu"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8391193" module="true" symbol="BluetoothLowEnergy"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="29" symbol="&lt;globals/NordicThingyApp/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="45" symbol="&lt;globals/ScanDataModel/&lt;&gt;_scanResults&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="6" object="true" symbol="DataModelFactory"/>
+        <entry id="8391341" symbol="characteristics"/>
+        <entry id="16" object="true" symbol="ScanView"/>
+        <entry id="13" object="true" symbol="ScanDataModel"/>
+        <entry field="true" id="96" symbol="Co2Ind"/>
+        <entry field="true" id="72" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_profileManager&gt;"/>
+        <entry id="47" method="true" symbol="getDisplayResult"/>
+        <entry field="true" id="37" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_profileManager&gt;"/>
+        <entry field="true" id="65" symbol="&lt;globals/ScanDelegate/&lt;&gt;_viewController&gt;"/>
+        <entry id="62" method="true" symbol="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;"/>
+        <entry field="true" id="31" symbol="&lt;globals/ScanView/&lt;&gt;_scanDataModel&gt;"/>
+        <entry field="true" id="71" symbol="&lt;globals/EnvironmentProfileModel/&lt;&gt;_pressure&gt;"/>
+        <entry id="14" object="true" symbol="ScanDelegate"/>
+        <entry field="true" id="56" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_device&gt;"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="91" symbol="&lt;globals/DataModelFactory/&lt;&gt;_scanDataModel&gt;"/>
+        <entry field="true" id="55" symbol="&lt;globals/DeviceDataModel/&lt;&gt;_dataModelFactory&gt;"/>
+        <entry id="41" method="true" symbol="notifyConnection"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="51" method="true" symbol="procScanResult"/>
+        <entry field="true" id="36" symbol="&lt;globals/ThingyDelegate/&lt;&gt;_onScanResult&gt;"/>
+        <entry field="true" id="105" symbol="menu_label_2"/>
+        <entry field="true" id="104" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268436189" name="state" stackId="1" startPc="268436009"/>
+        <entry arg="true" endPc="268436285" name="state" stackId="1" startPc="268436251"/>
+        <entry arg="true" endPc="268436312" name="scanDataModel" stackId="1" startPc="268436289"/>
+        <entry arg="true" endPc="268436507" name="dc" stackId="1" startPc="268436313"/>
+        <entry endPc="268436506" name="displayResult" stackId="2" startPc="268436316"/>
+        <entry endPc="268436506" name="str" stackId="3" startPc="268436316"/>
+        <entry endPc="268436506" name="strDimen" stackId="4" startPc="268436316"/>
+        <entry endPc="268436506" name="textOffset" stackId="5" startPc="268436316"/>
+        <entry arg="true" endPc="268436562" name="char" stackId="1" startPc="268436508"/>
+        <entry arg="true" endPc="268436562" name="value" stackId="2" startPc="268436508"/>
+        <entry endPc="268436561" name="onCharChanged" stackId="3" startPc="268436511"/>
+        <entry arg="true" endPc="268436579" name="model" stackId="1" startPc="268436563"/>
+        <entry arg="true" endPc="268436596" name="model" stackId="1" startPc="268436580"/>
+        <entry arg="true" endPc="268436613" name="model" stackId="1" startPc="268436597"/>
+        <entry arg="true" endPc="268436668" name="descriptor" stackId="1" startPc="268436614"/>
+        <entry arg="true" endPc="268436668" name="status" stackId="2" startPc="268436614"/>
+        <entry endPc="268436667" name="onDescriptorWrite" stackId="3" startPc="268436617"/>
+        <entry arg="true" endPc="268436721" name="device" stackId="1" startPc="268436669"/>
+        <entry arg="true" endPc="268436721" name="state" stackId="2" startPc="268436669"/>
+        <entry endPc="268436720" name="onConnection" stackId="3" startPc="268436672"/>
+        <entry arg="true" endPc="268436795" name="iter" stackId="1" startPc="268436722"/>
+        <entry arg="true" endPc="268436795" name="obj" stackId="2" startPc="268436722"/>
+        <entry endPc="268436793" name="uuid" stackId="3" startPc="268436740"/>
+        <entry arg="true" endPc="268436812" name="model" stackId="1" startPc="268436796"/>
+        <entry arg="true" endPc="268436865" name="scanResult" stackId="1" startPc="268436813"/>
+        <entry endPc="268436864" name="onScanResult" stackId="2" startPc="268436816"/>
+        <entry arg="true" endPc="268436889" name="profileManager" stackId="1" startPc="268436866"/>
+        <entry arg="true" endPc="268437000" name="scanResults" stackId="1" startPc="268436890"/>
+        <entry endPc="268436999" name="result" stackId="2" startPc="268436927"/>
+        <entry arg="true" endPc="268437060" name="item" stackId="1" startPc="268437001"/>
+        <entry arg="true" endPc="268437241" name="scanResult" stackId="1" startPc="268437131"/>
+        <entry endPc="268437240" name="newDevice" stackId="2" startPc="268437134"/>
+        <entry endPc="268437205" name="i" stackId="3" startPc="268437157"/>
+        <entry arg="true" endPc="268437395" name="bleDelegate" stackId="1" startPc="268437365"/>
+        <entry arg="true" endPc="268437479" name="scanResult" stackId="1" startPc="268437396"/>
+        <entry endPc="268437478" name="deviceDataModel" stackId="2" startPc="268437399"/>
+        <entry endPc="268437555" name="scanDataModel" stackId="1" startPc="268437483"/>
+        <entry arg="true" endPc="268437639" name="modelFactory" stackId="1" startPc="268437628"/>
+        <entry arg="true" endPc="268437756" name="bleDelegate" stackId="1" startPc="268437709"/>
+        <entry arg="true" endPc="268437756" name="dataModelFactory" stackId="2" startPc="268437709"/>
+        <entry arg="true" endPc="268437756" name="scanResult" stackId="3" startPc="268437709"/>
+        <entry arg="true" endPc="268437805" name="device" stackId="1" startPc="268437757"/>
+        <entry arg="true" endPc="268437991" name="scanDataModel" stackId="1" startPc="268437959"/>
+        <entry arg="true" endPc="268437991" name="viewController" stackId="2" startPc="268437959"/>
+        <entry endPc="268438034" name="displayResult" stackId="1" startPc="268437995"/>
+        <entry arg="true" endPc="268438074" name="dataModel" stackId="1" startPc="268438051"/>
+        <entry arg="true" endPc="268438360" name="dc" stackId="1" startPc="268438075"/>
+        <entry arg="true" endPc="268438360" name="bitmap" stackId="2" startPc="268438075"/>
+        <entry arg="true" endPc="268438360" name="value" stackId="3" startPc="268438075"/>
+        <entry arg="true" endPc="268438360" name="format" stackId="4" startPc="268438075"/>
+        <entry arg="true" endPc="268438360" name="units" stackId="5" startPc="268438075"/>
+        <entry arg="true" endPc="268438360" name="cell" stackId="6" startPc="268438075"/>
+        <entry endPc="268438359" name="gridOffset" stackId="7" startPc="268438078"/>
+        <entry endPc="268438359" name="cellHeight" stackId="8" startPc="268438078"/>
+        <entry endPc="268438359" name="cellWidth" stackId="9" startPc="268438078"/>
+        <entry endPc="268438359" name="cellY" stackId="10" startPc="268438078"/>
+        <entry endPc="268438359" name="cellXOffset" stackId="11" startPc="268438078"/>
+        <entry endPc="268438359" name="cellX" stackId="12" startPc="268438078"/>
+        <entry endPc="268438359" name="image" stackId="13" startPc="268438078"/>
+        <entry endPc="268438359" name="label" stackId="14" startPc="268438078"/>
+        <entry endPc="268438359" name="centerCellX" stackId="15" startPc="268438078"/>
+        <entry endPc="268438359" name="imageOffset" stackId="16" startPc="268438078"/>
+        <entry arg="true" endPc="268438732" name="dc" stackId="1" startPc="268438361"/>
+        <entry endPc="268438731" name="statusString" stackId="2" startPc="268438364"/>
+        <entry endPc="268438731" name="profile" stackId="3" startPc="268438364"/>
+        <entry arg="true" endPc="268438898" name="char" stackId="1" startPc="268438733"/>
+        <entry arg="true" endPc="268438898" name="value" stackId="2" startPc="268438733"/>
+        <entry arg="true" endPc="268438939" name="descriptor" stackId="1" startPc="268438899"/>
+        <entry arg="true" endPc="268438939" name="status" stackId="2" startPc="268438899"/>
+        <entry arg="true" endPc="268439020" name="value" stackId="1" startPc="268438956"/>
+        <entry endPc="268439106" name="char" stackId="1" startPc="268439032"/>
+        <entry endPc="268439106" name="cccd" stackId="2" startPc="268439032"/>
+        <entry arg="true" endPc="268439172" name="value" stackId="1" startPc="268439108"/>
+        <entry arg="true" endPc="268439245" name="value" stackId="1" startPc="268439181"/>
+        <entry arg="true" endPc="268439351" name="value" stackId="1" startPc="268439318"/>
+        <entry arg="true" endPc="268439636" name="delegate" stackId="1" startPc="268439352"/>
+        <entry arg="true" endPc="268439636" name="profileManager" stackId="2" startPc="268439352"/>
+        <entry arg="true" endPc="268439636" name="device" stackId="3" startPc="268439352"/>
+        <entry endPc="268439635" name="service" stackId="4" startPc="268439355"/>
+        <entry endPc="268439625" name="characteristic" stackId="5" startPc="268439430"/>
+        <entry endPc="268439732" name="scanDataModel" stackId="1" startPc="268439648"/>
+        <entry endPc="268439732" name="dataModel" stackId="2" startPc="268439648"/>
+        <entry arg="true" endPc="268439753" name="delegate" stackId="1" startPc="268439733"/>
+        <entry arg="true" endPc="268439753" name="profileManager" stackId="2" startPc="268439733"/>
+        <entry arg="true" endPc="268439844" name="scanResult" stackId="1" startPc="268439754"/>
+        <entry endPc="268439844" name="deviceDataModel" stackId="2" startPc="268439757"/>
+        <entry endPc="268439844" name="dataModel" stackId="3" startPc="268439757"/>
+        <entry arg="true" endPc="268439939" name="device" stackId="1" startPc="268439845"/>
+        <entry endPc="268439939" name="envModel" stackId="2" startPc="268439848"/>
+        <entry endPc="268439939" name="dataModel" stackId="3" startPc="268439848"/>
+        <entry arg="true" endPc="268440006" name="deviceDataModel" stackId="1" startPc="268439971"/>
+    </localVars>
+    <deviceInfo deviceVersion="fcbb2d71ec35a1d3f34d13093a6835d1c69522b8" partNumber="006-B4375-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Co2Ind"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="HumidityInd"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="TempInd"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LeafInd"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Launcher"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="PressureInd"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="58" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/ProfileManager" offset="215" parentId="globals" symbolId="ProfileManager" type="class"/>
+        <dataEntry label="globals/NordicThingyApp" offset="331" parentId="globals" symbolId="NordicThingyApp" type="class"/>
+        <dataEntry label="globals/ScanView" offset="438" parentId="globals" symbolId="ScanView" type="class"/>
+        <dataEntry label="globals/Rez" offset="527" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/ThingyDelegate" offset="580" parentId="globals" symbolId="ThingyDelegate" type="class"/>
+        <dataEntry label="globals/ScanMenuDelegate" offset="759" parentId="globals" symbolId="ScanMenuDelegate" type="class"/>
+        <dataEntry label="globals/ScanDataModel" offset="812" parentId="globals" symbolId="ScanDataModel" type="class"/>
+        <dataEntry label="globals/ViewController" offset="928" parentId="globals" symbolId="ViewController" type="class"/>
+        <dataEntry label="globals/DeviceDataModel" offset="1008" parentId="globals" symbolId="DeviceDataModel" type="class"/>
+        <dataEntry label="globals/ScanDelegate" offset="1142" parentId="globals" symbolId="ScanDelegate" type="class"/>
+        <dataEntry label="globals/DeviceView" offset="1240" parentId="globals" symbolId="DeviceView" type="class"/>
+        <dataEntry label="globals/EnvironmentProfileModel" offset="1311" parentId="globals" symbolId="EnvironmentProfileModel" type="class"/>
+        <dataEntry label="globals/DataModelFactory" offset="1544" parentId="globals" symbolId="DataModelFactory" type="class"/>
+        <dataEntry label="globals/DeviceDelegate" offset="1660" parentId="globals" symbolId="DeviceDelegate" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1722" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1802" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1837" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="1890" parentId="Menus" symbolId="MainMenu" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435883" name="&lt;init&gt;" parent="ProfileManager" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435895" name="&lt;init&gt;" parent="NordicThingyApp" startPc="268435884">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435907" name="&lt;init&gt;" parent="ScanView" startPc="268435896">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435927" name="&lt;init&gt;" parent="Rez" startPc="268435908">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435939" name="&lt;init&gt;" parent="ThingyDelegate" startPc="268435928">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435951" name="&lt;init&gt;" parent="ScanMenuDelegate" startPc="268435940">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="ScanDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="ViewController">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="DeviceDataModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435963" name="&lt;init&gt;" parent="ScanDelegate" startPc="268435952">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435975" name="&lt;init&gt;" parent="DeviceView" startPc="268435964">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="EnvironmentProfileModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="DataModelFactory">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435987" name="&lt;init&gt;" parent="DeviceDelegate" startPc="268435976">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436008" name="registerProfiles" parent="ProfileManager" startPc="268435988">
+            <documentation><![CDATA[<div class="description"> Register the bluetooth profile<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="ProfileManager">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436189" name="onStart" parent="NordicThingyApp" startPc="268436009">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436235" name="getInitialView" parent="NordicThingyApp" startPc="268436190">
+            <documentation><![CDATA[<div class="description"> Return the initial views for the app<br/> <div class="returns">Returns  Array Pair [View, InputDelegate]</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436250" name="initialize" parent="NordicThingyApp" startPc="268436236">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436285" name="onStop" parent="NordicThingyApp" startPc="268436251">
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="ScanView">
+            <documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436288" name="onLayout" parent="ScanView" startPc="268436286">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436312" name="initialize" parent="ScanView" startPc="268436289">
+            <param id="scanDataModel"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> scanDataModel The model containing the scan results</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="ScanView">
+            <documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436507" name="onUpdate" parent="ScanView" startPc="268436313">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436562" name="onCharacteristicChanged" parent="ThingyDelegate" startPc="268436508">
+            <param id="char"/>
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Handle a characteristic being changed<br/> <div class="param"> char The characteristic that changed</div><br/> <div class="param"> value The updated value of the characteristic</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436579" name="notifyCharacteristicChanged" parent="ThingyDelegate" startPc="268436563">
+            <param id="model"/>
+            <documentation><![CDATA[<div class="description"> Store a new model to handle characteristic changes<br/> <div class="param"> model The model for characteristics</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436596" name="notifyConnection" parent="ThingyDelegate" startPc="268436580">
+            <param id="model"/>
+            <documentation><![CDATA[<div class="description"> Store a new model to manage device data connections<br/> <div class="param"> model The model for device data</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436613" name="notifyScanResult" parent="ThingyDelegate" startPc="268436597">
+            <param id="model"/>
+            <documentation><![CDATA[<div class="description"> Store a new model to manage scan results<br/> <div class="param"> model The model containing scan results</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436668" name="onDescriptorWrite" parent="ThingyDelegate" startPc="268436614">
+            <param id="descriptor"/>
+            <param id="status"/>
+            <documentation><![CDATA[<div class="description"> Handle the completion of a write operation on a descriptor<br/> <div class="param"> descriptor The descriptor that was written</div><br/> <div class="param"> status The BluetoothLowEnergy status indicating the result of the operation</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436721" name="onConnectedStateChanged" parent="ThingyDelegate" startPc="268436669">
+            <param id="device"/>
+            <param id="state"/>
+            <documentation><![CDATA[<div class="description"> Handle pairing and connecting to a device<br/> <div class="param"> device The device state that was changed</div><br/> <div class="param"> state The state of the connection</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436795" name="&lt;globals/ThingyDelegate/&lt;&gt;contains&gt;" parent="ThingyDelegate" startPc="268436722">
+            <param id="iter"/>
+            <param id="obj"/>
+            <documentation><![CDATA[<div class="description"> Get whether the iterator contains a specific uuid<br/> <div class="param"> iter Iterator of uuid objects</div><br/> <div class="param"> obj Uuid to search for</div><br/> <div class="returns">Returns  true if object found, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436812" name="notifyDescriptorWrite" parent="ThingyDelegate" startPc="268436796">
+            <param id="model"/>
+            <documentation><![CDATA[<div class="description"> Store a new model to handle descriptor writes<br/> <div class="param"> model The model for descriptors</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436865" name="&lt;globals/ThingyDelegate/&lt;&gt;broadcastScanResult&gt;" parent="ThingyDelegate" startPc="268436813">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Broadcast a new scan result<br/> <div class="param"> scanResult The new scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436889" name="initialize" parent="ThingyDelegate" startPc="268436866">
+            <param id="profileManager"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> profileManager The profile manager</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437000" name="onScanResults" parent="ThingyDelegate" startPc="268436890">
+            <param id="scanResults"/>
+            <documentation><![CDATA[<div class="description"> Handle new scan results being received<br/> <div class="param"> scanResults An iterator of new scan results</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437060" name="onMenuItem" parent="ScanMenuDelegate" startPc="268437001">
+            <param id="item"/>
+            <documentation><![CDATA[<div class="description"> Handle a menu item being chosen<br/> <div class="param"> item The identifier of the chosen item</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437075" name="initialize" parent="ScanMenuDelegate" startPc="268437061">
+            <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437130" name="nextResult" parent="ScanDataModel" startPc="268437076">
+            <documentation><![CDATA[<div class="description"> Update display to next result<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437241" name="procScanResult" parent="ScanDataModel" startPc="268437131">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Process a new scan result<br/> <div class="param"> scanResult The new scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437283" name="previousResult" parent="ScanDataModel" startPc="268437242">
+            <documentation><![CDATA[<div class="description"> Update display to previous result<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437315" name="getDisplayIndex" parent="ScanDataModel" startPc="268437284">
+            <documentation><![CDATA[<div class="description"> Get the current display index<br/> <div class="returns">Returns  The display index</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437350" name="getDisplayResult" parent="ScanDataModel" startPc="268437316">
+            <documentation><![CDATA[<div class="description"> Get the current scan result<br/> <div class="returns">Returns  The current scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437364" name="getResultCount" parent="ScanDataModel" startPc="268437351">
+            <documentation><![CDATA[<div class="description"> Get the number of scan results<br/> <div class="returns">Returns  The number of scan results</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437395" name="initialize" parent="ScanDataModel" startPc="268437365">
+            <param id="bleDelegate"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> bleDelegate The BLE delegate for this model</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437479" name="pushDeviceView" parent="ViewController" startPc="268437396">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Push the device view<br/> <div class="param"> scanResult The scan result for the device view to push</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437555" name="getInitialView" parent="ViewController" startPc="268437480">
+            <documentation><![CDATA[<div class="description"> Return the initial views for the app<br/> <div class="returns">Returns  Array Pair [View, InputDelegate]</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437627" name="pushScanMenu" parent="ViewController" startPc="268437556">
+            <documentation><![CDATA[<div class="description"> Push the scan menu view<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437639" name="initialize" parent="ViewController" startPc="268437628">
+            <param id="modelFactory"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> modelFactory Factory to create models</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437667" name="isConnected" parent="DeviceDataModel" startPc="268437640">
+            <documentation><![CDATA[<div class="description"> Get whether a device is connected<br/> <div class="returns">Returns  true if connected, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437708" name="unpair" parent="DeviceDataModel" startPc="268437668">
+            <documentation><![CDATA[<div class="description"> Unpair the current device<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437756" name="initialize" parent="DeviceDataModel" startPc="268437709">
+            <param id="bleDelegate"/>
+            <param id="dataModelFactory"/>
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> bleDelegate The BLE delegate for the model</div><br/> <div class="param"> dataModelFactory The factory to create models</div><br/> <div class="param"> scanResult The device scan result</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437805" name="procConnection" parent="DeviceDataModel" startPc="268437757">
+            <param id="device"/>
+            <documentation><![CDATA[<div class="description"> Process a new device connection<br/> <div class="param"> device The device that was connected</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437845" name="getActiveProfile" parent="DeviceDataModel" startPc="268437806">
+            <documentation><![CDATA[<div class="description"> Get the active profile<br/> <div class="returns">Returns  The current profile, or null if no device connected</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437886" name="pair" parent="DeviceDataModel" startPc="268437846">
+            <documentation><![CDATA[<div class="description"> Pair the device associated with the current scan result<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437926" name="&lt;globals/DeviceDataModel/&lt;&gt;procDeviceConnected&gt;" parent="DeviceDataModel" startPc="268437887">
+            <documentation><![CDATA[<div class="description"> Update the profile after a is device connected<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437942" name="onMenu" parent="ScanDelegate" startPc="268437927">
+            <documentation><![CDATA[<div class="description"> Handle menu button press<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437958" name="onPreviousPage" parent="ScanDelegate" startPc="268437943">
+            <documentation><![CDATA[<div class="description"> Handle previous page behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437991" name="initialize" parent="ScanDelegate" startPc="268437959">
+            <param id="scanDataModel"/>
+            <param id="viewController"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> scanDataModel The model containing the scan results</div><br/> <div class="param"> viewController Object that controls pushing new views</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438034" name="onSelect" parent="ScanDelegate" startPc="268437992">
+            <documentation><![CDATA[<div class="description"> Handle the select action<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438050" name="onNextPage" parent="ScanDelegate" startPc="268438035">
+            <documentation><![CDATA[<div class="description"> Handle next page behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438074" name="initialize" parent="DeviceView" startPc="268438051">
+            <param id="dataModel"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> dataModel The data to show</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438360" name="&lt;globals/DeviceView/&lt;&gt;drawIndicator&gt;" parent="DeviceView" startPc="268438075">
+            <param id="dc"/>
+            <param id="bitmap"/>
+            <param id="value"/>
+            <param id="format"/>
+            <param id="units"/>
+            <param id="cell"/>
+            <documentation><![CDATA[<div class="description"> Draw the indicator with the given bitmap and text<br/> <div class="param"> dc Device context</div><br/> <div class="param"> bitmap Identifier for a bitmap</div><br/> <div class="param"> value The value</div><br/> <div class="param"> format Formatting string for the value</div><br/> <div class="param"> units The units for the value</div><br/> <div class="param"> cell Which cell to place the indicator in</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438732" name="onUpdate" parent="DeviceView" startPc="268438361">
+            <param id="dc"/>
+            <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438898" name="onCharacteristicChanged" parent="EnvironmentProfileModel" startPc="268438733">
+            <param id="char"/>
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Handle a characteristic being changed<br/> <div class="param"> char The characteristic that changed</div><br/> <div class="param"> value The updated value of the characteristic</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438939" name="onDescriptorWrite" parent="EnvironmentProfileModel" startPc="268438899">
+            <param id="descriptor"/>
+            <param id="status"/>
+            <documentation><![CDATA[<div class="description"> Handle the completion of a write operation on a descriptor<br/> <div class="param"> descriptor The descriptor that was written</div><br/> <div class="param"> status The BluetoothLowEnergy status indicating the result of the operation</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438947" name="getEco2" parent="EnvironmentProfileModel" startPc="268438940">
+            <documentation><![CDATA[<div class="description"> Get the ECO2 value<br/> <div class="returns">Returns  The ECO2 value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438955" name="getTvoc" parent="EnvironmentProfileModel" startPc="268438948">
+            <documentation><![CDATA[<div class="description"> Get the TVOC value<br/> <div class="returns">Returns  The TVOC value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439020" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processPressureValue&gt;" parent="EnvironmentProfileModel" startPc="268438956">
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Process and set the pressure value<br/> <div class="param"> value The new pressure value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439028" name="getHumidity" parent="EnvironmentProfileModel" startPc="268439021">
+            <documentation><![CDATA[<div class="description"> Get the humidity<br/> <div class="returns">Returns  The humidity</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439107" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;activateNextNotification&gt;" parent="EnvironmentProfileModel" startPc="268439029">
+            <documentation><![CDATA[<div class="description"> Write the next notification to the descriptor<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439172" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processTemperatureValue&gt;" parent="EnvironmentProfileModel" startPc="268439108">
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Process and set the temperature value<br/> <div class="param"> value The new temperature value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439180" name="getPressure" parent="EnvironmentProfileModel" startPc="268439173">
+            <documentation><![CDATA[<div class="description"> Get the pressure<br/> <div class="returns">Returns  The pressure</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439245" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processAirQualityValue&gt;" parent="EnvironmentProfileModel" startPc="268439181">
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Process and set the air quality values<br/> <div class="param"> value The new air quality value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439317" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processCccdWrite&gt;" parent="EnvironmentProfileModel" startPc="268439246">
+            <documentation><![CDATA[<div class="description"> Process a CCCD write operation<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439351" name="&lt;globals/EnvironmentProfileModel/&lt;&gt;processHumidityValue&gt;" parent="EnvironmentProfileModel" startPc="268439318">
+            <param id="value"/>
+            <documentation><![CDATA[<div class="description"> Process and set the humidity value<br/> <div class="param"> value The new humidity value</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439636" name="initialize" parent="EnvironmentProfileModel" startPc="268439352">
+            <param id="delegate"/>
+            <param id="profileManager"/>
+            <param id="device"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> delegate The BLE delegate for the model</div><br/> <div class="param"> profileManager The profile manager for this model</div><br/> <div class="param"> device The current device</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439644" name="getTemperature" parent="EnvironmentProfileModel" startPc="268439637">
+            <documentation><![CDATA[<div class="description"> Get the temperature<br/> <div class="returns">Returns  The temperature</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439732" name="getScanDataModel" parent="DataModelFactory" startPc="268439645">
+            <documentation><![CDATA[<div class="description"> Get a scan data model instance<br/> <div class="returns">Returns  The current scan data model or a new one</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439753" name="initialize" parent="DataModelFactory" startPc="268439733">
+            <param id="delegate"/>
+            <param id="profileManager"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> delegate The BLE delegate to use for the models</div><br/> <div class="param"> profileManager The profile manager to use for a profile model</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439844" name="getDeviceDataModel" parent="DataModelFactory" startPc="268439754">
+            <param id="scanResult"/>
+            <documentation><![CDATA[<div class="description"> Get a device data model instance<br/> <div class="param"> scanResult The scan result to use for a new model</div><br/> <div class="returns">Returns  The current device data model or a new one</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439939" name="getEnvironmentModel" parent="DataModelFactory" startPc="268439845">
+            <param id="device"/>
+            <documentation><![CDATA[<div class="description"> Get a environment profile model instance<br/> <div class="param"> device The device to use for a new model</div><br/> <div class="returns">Returns  The current environment profile model or a new one</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439970" name="onBack" parent="DeviceDelegate" startPc="268439940">
+            <documentation><![CDATA[<div class="description"> Handle the back behavior<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440006" name="initialize" parent="DeviceDelegate" startPc="268439971">
+            <param id="deviceDataModel"/>
+            <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> deviceDataModel The device data model</div><br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440018" name="&lt;init&gt;" parent="MainMenu" startPc="268440007">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440123" name="initialize" parent="MainMenu" startPc="268440019">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
